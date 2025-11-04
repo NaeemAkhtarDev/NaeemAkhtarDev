@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m a **Frontend Developer** with 6+ years of experience in building modern, responsive, and interactive web interfaces.  
-- 💡 I specialize in **UI/UX, web animations, 3D integration, HTML, CSS, React, Next Js, Typescript, JavaScript, Three JS, Webflow and CMS frameworks**.  
+- 💡 I specialize in **UI/UX, web animations, 3D integration, HTML, CSS, React, Next Js, Typescript, JavaScript, Three JS, GSAP, Webflow, WordPress, Shopify, Laravel**.  
 - 🌍 Based in **Pakistan**, working with international clients and teams remotely.  
 - 🎯 My goal is to deliver **visually stunning, high-performing web experiences**.  
 - 💬 I enjoy mentoring, learning new tech, and contributing to open-source.
@@ -57,22 +57,6 @@
 </p>
 ---
 
-### 💡 Github Projects
-
-| Project | Description | Live Demo |
-|----------|--------------|-----------|
-| 🎠 **Carousel Slider** | Responsive info slider built with HTML, CSS, JS | [Live Demo](#) |
-| 🖼️ **Draggable Image Slider** | Smooth draggable gallery with modern UI | [Live Demo](#) |
-| 🎨 **Hex Color Generator** | Random HEX color generator using JS | [Live Demo](#) |
-| 💬 **Message Passing Form** | Real-time message display from input | [Live Demo](#) |
-| 🧠 **Quote Generator** | Displays new quotes on every button click | [Live Demo](#) |
-| 🖼️ **Image Resizer & Compressor** | Compress and resize images in browser | [Live Demo](#) |
-| 📸 **Screenshot Vanilla** | Capture webpage screenshots with JS Canvas | [Live Demo](#) |
-| 🦑 **Squid Game 3D** | 3D Web Experience built with Three.js & GSAP | [Live Demo](#) |
-| 🌦️ **Weather App** | Real-time weather using API integration | [Live Demo](#) |
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏨 [Hotel Booking Website – Webflow & Three.js](https://fairymay-heights.webflow.io/)
@@ -96,6 +80,8 @@ A professional and fully responsive Shopify-based medicine eCommerce website fea
 🔗 [View Live](https://coverd.de/) | [Source Code](https://github.com/NaeemAkhtarDev/medicine-store)
 **Tech:** Shopify, Liquid, HTML5, CSS3, JavaScript, Theme Customization, Responsive Design 
 
+
+---
 
 
 ### 💅 [Beauty & Salon Store – Shopify Website](https://dwersteg.de/)
@@ -152,11 +138,14 @@ A fully responsive and modern e-commerce website built using HTML, CSS, and Java
 🔗 [View Live](http://htmls.mytechnology.ae/tajer/) | [Source Code](#)
 
 
+---
+
 ### 🏠 [Home Service Template – Laravel & HTML](http://htmls.mytechnology.ae/relax/)
 A fully functional and responsive home service website template built with Laravel and modern UI components — featuring service listings, booking forms, user-friendly navigation, and clean code structure for scalability.  
 **Tech:** Laravel, HTML5, CSS3, Bootstrap 5, JavaScript, Blade Templates, Responsive Design  
 
 🔗 [View Live](http://htmls.mytechnology.ae/relax/) | [Source Code](#)
+
 
 
 ### 🎟️ [Event Management & E-Commerce Website – Laravel & HTML](http://htmls.mytechnology.ae/event-app)
@@ -166,6 +155,24 @@ A fully responsive event management and e-commerce website built with Laravel, d
 🔗 [View Live](http://htmls.mytechnology.ae/event-app) | [Source Code](#)
 
 
+---
+
+
+### 💡 Github Projects
+
+| Project | Description | Live Demo |
+|----------|--------------|-----------|
+| 🎠 **Carousel Slider** | Responsive info slider built with HTML, CSS, JS | [Live Demo](#) |
+| 🖼️ **Draggable Image Slider** | Smooth draggable gallery with modern UI | [Live Demo](#) |
+| 🎨 **Hex Color Generator** | Random HEX color generator using JS | [Live Demo](#) |
+| 💬 **Message Passing Form** | Real-time message display from input | [Live Demo](#) |
+| 🧠 **Quote Generator** | Displays new quotes on every button click | [Live Demo](#) |
+| 🖼️ **Image Resizer & Compressor** | Compress and resize images in browser | [Live Demo](#) |
+| 📸 **Screenshot Vanilla** | Capture webpage screenshots with JS Canvas | [Live Demo](#) |
+| 🦑 **Squid Game 3D** | 3D Web Experience built with Three.js & GSAP | [Live Demo](#) |
+| 🌦️ **Weather App** | Real-time weather using API integration | [Live Demo](#) |
+
+---
 
 
 ### 🧰 GitHub Stats & Activity
