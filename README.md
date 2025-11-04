@@ -57,7 +57,7 @@
 </p>
 ---
 
-### 💡 Featured Projects
+### 💡 Github Projects
 
 | Project | Description | Live Demo |
 |----------|--------------|-----------|
@@ -75,12 +75,12 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 [EduBlink – Education Website (WordPress)](https://your-live-link.com)
+### 🌐 [Education Website (WordPress)](http://raynaedutainment.com/)
 Responsive education website built with WordPress + Elementor.  
 Features include course management, tabs, LearnPress, and custom fields.  
-**Tech:** WordPress, Elementor Pro, Pods Plugin, PHP, CSS3
+**Tech:** WordPress, Elementor Pro, Pods Plugin, PHP, CSS3, Fully Responsive
 
-🔗 [View Live](https://your-live-link.com) | [Source Code](https://github.com/NaeemAkhtarDev/edublink)
+🔗 [View Live](http://raynaedutainment.com/) | [Source Code](https://github.com/NaeemAkhtarDev/edublink)
 
 ---
 
