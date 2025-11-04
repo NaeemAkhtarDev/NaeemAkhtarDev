@@ -75,14 +75,51 @@
 
 ## 🚀 Featured Projects
 
+### 🏨 [Hotel Booking Website – Webflow & Three.js](https://fairymay-heights.webflow.io/)
+An immersive and visually stunning hotel website built with Webflow and Three.js, featuring 3D room visuals, smooth animations, and a seamless booking experience with modern responsive design.  
+**Tech:** Webflow, Three.js, JavaScript, Web Animations, Responsive Design, UI/UX Design  
+
+🔗 [View Live](https://fairymay-heights.webflow.io/) | [Source Code](https://github.com/NaeemAkhtarDev/hotel-website)
+
+
 ### 🌐 [Education Website (WordPress)](http://raynaedutainment.com/)
 Responsive education website built with WordPress + Elementor.  
 Features include course management, tabs, LearnPress, and custom fields.  
-**Tech:** WordPress, Elementor Pro, Pods Plugin, PHP, CSS3, Fully Responsive
+**Tech:** WordPress, Elementor Pro, Pods Plugin, PHP, CSS3, Fully Responsive, Theme Customization
 
-🔗 [View Live](http://raynaedutainment.com/) | [Source Code](https://github.com/NaeemAkhtarDev/edublink)
+🔗 [View Live](http://raynaedutainment.com/) | [Source Code](https://github.com/NaeemAkhtarDev/rayna)
 
 ---
+
+### 🏥 [Medicine Store – Shopify Website](https://coverd.de/)
+A professional and fully responsive Shopify-based medicine eCommerce website featuring custom product pages, cart integration, and a clean, trustworthy medical design.  
+🔗 [View Live](https://coverd.de/) | [Source Code](https://github.com/NaeemAkhtarDev/medicine-store)
+**Tech:** Shopify, Liquid, HTML5, CSS3, JavaScript, Theme Customization, Responsive Design 
+
+
+
+### 💅 [Beauty & Salon Store – Shopify Website](https://dwersteg.de/)
+A stylish and fully responsive Shopify eCommerce website built for beauty, salon, and bridal services featuring product collections, appointment booking, and an elegant user experience tailored for modern brands.  
+**Tech:** Shopify, Liquid, HTML5, CSS3, JavaScript, Theme Customization, Responsive Design  
+
+🔗 [View Live](https://dwersteg.de/) | [Source Code](#)
+
+
+### 💼 [Consultant Website – WordPress](https://sij-global.com/)
+A modern and elegant WordPress-based consultant website designed to highlight professional services, expertise, and client testimonials with responsive layouts and smooth navigation.  
+**Tech:** WordPress, Elementor Pro, PHP, HTML5, CSS3, JavaScript,Theme Customization, Responsive Design  
+
+🔗 [View Live](https://sij-global.com/) | [Source Code](#)
+
+
+
+### 🛍️ [E-Commerce Website – Shopify Store](https://shop.wearesocks.de/)
+A fully functional and responsive Shopify eCommerce website designed for modern online stores, featuring product collections, cart functionality, secure checkout, and a visually engaging layout optimized for sales and user experience.  
+**Tech:** Shopify, Liquid, HTML5, CSS3, JavaScript, Theme Customization, Responsive Design  
+
+🔗 [View Live](https://shop.wearesocks.de/) | [Source Code](#)
+
+
 
 ### 💻 [Portfolio Website (React + Three.js + GSAP)](https://your-react-portfolio.vercel.app)
 A 3D animated personal portfolio showcasing frontend projects.  
@@ -92,27 +129,51 @@ A 3D animated personal portfolio showcasing frontend projects.
 
 ---
 
-### 🛍️ [Luxury Store – Webflow Template](https://luxury-store.webflow.io)
-Modern eCommerce template built in Webflow with smooth animations.  
-**Tech:** Webflow Designer, Interactions, CMS, Responsive Design  
+### 🩺 [Healthcare & Accessories Website – WordPress](https://delkihealth.com/)
+A clean and responsive healthcare and medical accessories website built on WordPress, featuring product showcases, service sections, and an easy-to-navigate design focused on trust and user experience.  
+**Tech:** WordPress, WooCommerce, PHP, HTML5, CSS3, JavaScript, Elementor Pro, Responsive Design  
 
-🔗 [View Live](https://luxury-store.webflow.io)
+🔗 [View Live](https://delkihealth.com/) | [Source Code](#)
+
+
+### 👗 [Clothing Store Website – WordPress](https://wearmacaw.com/)
+A stylish and responsive clothing eCommerce website built on WordPress and WooCommerce, featuring product filtering, cart integration, and a user-friendly shopping experience with modern animations and clean UI.  
+**Tech:** WordPress, WooCommerce, PHP, HTML5, CSS3, JavaScript, Elementor Pro, Responsive Design  
+
+🔗 [View Live](https://wearmacaw.com/) | [Source Code](#)
+
 
 ---
 
-### 🌍 [Travel Agency Website (HTML + Bootstrap)](https://travel-agency-demo.vercel.app)
-Fully responsive, pixel-perfect website with animations and tabs.  
-**Tech:** HTML5, CSS3, Bootstrap 5, jQuery  
+### 🌍 [E-Commerce Website – HTML, CSS, JavaScript & Laravel](http://htmls.mytechnology.ae/tajer/)
+A fully responsive and modern e-commerce website built using HTML, CSS, and JavaScript featuring product listings, categories, add-to-cart functionality, and smooth UI animations optimized for all devices.  
+**Tech:** HTML5, CSS3, JavaScript, Bootstrap 5, Responsive Design, UI Animations, Laravel UI
 
-🔗 [View Live](https://travel-agency-demo.vercel.app) | [Source Code](https://github.com/NaeemAkhtarDev/travel-agency)
+🔗 [View Live](http://htmls.mytechnology.ae/tajer/) | [Source Code](#)
+
+
+### 🏠 [Home Service Template – Laravel & HTML](http://htmls.mytechnology.ae/relax/)
+A fully functional and responsive home service website template built with Laravel and modern UI components — featuring service listings, booking forms, user-friendly navigation, and clean code structure for scalability.  
+**Tech:** Laravel, HTML5, CSS3, Bootstrap 5, JavaScript, Blade Templates, Responsive Design  
+
+🔗 [View Live](http://htmls.mytechnology.ae/relax/) | [Source Code](#)
+
+
+### 🎟️ [Event Management & E-Commerce Website – Laravel & HTML](http://htmls.mytechnology.ae/event-app)
+A fully responsive event management and e-commerce website built with Laravel, designed for booking and selling event tickets online. It features event listings, ticket purchase flow, user dashboard, and an elegant, modern UI optimized for performance and scalability.  
+**Tech:** Laravel, HTML5, CSS3, Bootstrap 5, JavaScript, Blade Templates, Responsive Design  
+
+🔗 [View Live](http://htmls.mytechnology.ae/event-app) | [Source Code](#)
+
+
 
 
 ### 🧰 GitHub Stats & Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naeemakhtar&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemakhtar&layout=compact&theme=tokyonight" height="150" />
-</p>
+</p> -->
 
 ---
 
