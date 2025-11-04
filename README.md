@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Naeem Akhtar</h1>
 
 <p align="center">
-  💻 <strong>Frontend & UI/UX Developer</strong> | React • Next.js • Three.js • GSAP • WordPress  • Webflow • Shopify • Typescript<br/>
+  💻 <strong>Frontend & UI/UX Developer</strong> | React • Next.js • Three.js • GSAP • WordPress  • Webflow • Shopify • Typescript • JavaScript <br/>
   🎨 Passionate about creating Pixel-perfect, animated, and Responsive websites. Also Helping Brands Build Stunning Websites · Animations · AI-Ready &amp; Exploring Web3.
 </p>
 
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m a **Frontend Developer** with 6+ years of experience in building modern, responsive, and interactive web interfaces.  
-- 💡 I specialize in **UI/UX, web animations, 3D integration, HTML, CSS, React, Next Js, Typescript, JavaScript, Three JS, GSAP, Webflow, WordPress, Shopify, Laravel**.  
+- 💡 I specialize in **UI/UX, Web animations, 3D integration, HTML, CSS, React, Next Js, Typescript, JavaScript, Three JS, GSAP, Webflow, WordPress, Shopify, Laravel and AI Integration**.  
 - 🌍 Based in **Pakistan**, working with international clients and teams remotely.  
 - 🎯 My goal is to deliver **visually stunning, high-performing web experiences**.  
 - 💬 I enjoy mentoring, learning new tech, and contributing to open-source.
@@ -63,7 +63,7 @@
 An immersive and visually stunning hotel website built with Webflow and Three.js, featuring 3D room visuals, smooth animations, and a seamless booking experience with modern responsive design.  
 **Tech:** Webflow, Three.js, JavaScript, Web Animations, Responsive Design, UI/UX Design  
 
-🔗 [View Live](https://fairymay-heights.webflow.io/) | [Source Code](https://github.com/NaeemAkhtarDev/hotel-website)
+🔗 [View Live](https://fairymay-heights.webflow.io/) | [Source Code](#)
 
 
 ### 🌐 [Education Website (WordPress)](http://raynaedutainment.com/)
@@ -71,13 +71,13 @@ Responsive education website built with WordPress + Elementor.
 Features include course management, tabs, LearnPress, and custom fields.  
 **Tech:** WordPress, Elementor Pro, Pods Plugin, PHP, CSS3, Fully Responsive, Theme Customization
 
-🔗 [View Live](http://raynaedutainment.com/) | [Source Code](https://github.com/NaeemAkhtarDev/rayna)
+🔗 [View Live](http://raynaedutainment.com/) | [Source Code](#)
 
 ---
 
 ### 🏥 [Medicine Store – Shopify Website](https://coverd.de/)
 A professional and fully responsive Shopify-based medicine eCommerce website featuring custom product pages, cart integration, and a clean, trustworthy medical design.  
-🔗 [View Live](https://coverd.de/) | [Source Code](https://github.com/NaeemAkhtarDev/medicine-store)
+🔗 [View Live](https://coverd.de/) | [Source Code](#)
 **Tech:** Shopify, Liquid, HTML5, CSS3, JavaScript, Theme Customization, Responsive Design 
 
 
@@ -174,10 +174,10 @@ A fully responsive event management and e-commerce website built with Laravel, d
 
 ---
 
-
+<!--
 ### 🧰 GitHub Stats & Activity
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naeemakhtar&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemakhtar&layout=compact&theme=tokyonight" height="150" />
 </p> -->
