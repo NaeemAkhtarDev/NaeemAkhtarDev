@@ -73,6 +73,40 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🌐 [EduBlink – Education Website (WordPress)](https://your-live-link.com)
+Responsive education website built with WordPress + Elementor.  
+Features include course management, tabs, LearnPress, and custom fields.  
+**Tech:** WordPress, Elementor Pro, Pods Plugin, PHP, CSS3
+
+🔗 [View Live](https://your-live-link.com) | [Source Code](https://github.com/NaeemAkhtarDev/edublink)
+
+---
+
+### 💻 [Portfolio Website (React + Three.js + GSAP)](https://your-react-portfolio.vercel.app)
+A 3D animated personal portfolio showcasing frontend projects.  
+**Tech:** React.js, Three.js, GSAP, Vite, Tailwind CSS  
+
+🔗 [View Live](https://your-react-portfolio.vercel.app) | [Source Code](https://github.com/NaeemAkhtarDev/portfolio)
+
+---
+
+### 🛍️ [Luxury Store – Webflow Template](https://luxury-store.webflow.io)
+Modern eCommerce template built in Webflow with smooth animations.  
+**Tech:** Webflow Designer, Interactions, CMS, Responsive Design  
+
+🔗 [View Live](https://luxury-store.webflow.io)
+
+---
+
+### 🌍 [Travel Agency Website (HTML + Bootstrap)](https://travel-agency-demo.vercel.app)
+Fully responsive, pixel-perfect website with animations and tabs.  
+**Tech:** HTML5, CSS3, Bootstrap 5, jQuery  
+
+🔗 [View Live](https://travel-agency-demo.vercel.app) | [Source Code](https://github.com/NaeemAkhtarDev/travel-agency)
+
+
 ### 🧰 GitHub Stats & Activity
 
 <p align="center">
@@ -82,12 +116,6 @@
 
 ---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
 
 ### 🌐 Connect With Me
