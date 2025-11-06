@@ -94,6 +94,7 @@ TechVision is a modern software company website built with React and Next.js, fo
 
 ### 🏥 [Medicine Store – Shopify Website](https://coverd.de/)
 A professional and fully responsive Shopify-based medicine eCommerce website featuring custom product pages, cart integration, and a clean, trustworthy medical design.
+
 **Tech:** Shopify, Liquid, HTML5, CSS3, JavaScript, Theme Customization, Responsive Design 
 
 🔗 [View Live](https://coverd.de/) | [Source Code](#)
