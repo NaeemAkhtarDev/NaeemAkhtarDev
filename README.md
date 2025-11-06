@@ -76,6 +76,7 @@ Features include course management, tabs, LearnPress, and custom fields.
 
 ### 🌐 [MaximumAttack – Car & Bike Racing Website (WordPress & WooCommerce)](https://maximumattack.com/)
 MaximumAttack is a high-performance racing-themed website built using WordPress and WooCommerce, designed for motorsport enthusiasts. The platform showcases car and bike racing content while integrating an eCommerce store for selling racing merchandise — including shirts, gloves, shoes, and accessories.
+
 **Tech:** WordPress | WooCommerce | HTML5 | CSS3 | JavaScript | Responsive Design
 
 🔗 [View Live](https://maximumattack.com/) | [Source Code](#)
@@ -84,6 +85,7 @@ MaximumAttack is a high-performance racing-themed website built using WordPress 
 
 ### 🏨 [Software Company Website – React.js | Next.js | Styled Components](https://webevis.com/)
 TechVision is a modern software company website built with React and Next.js, focused on performance, design consistency, and scalability. The project showcases clean UI architecture and dynamic content rendering using Next.js server-side capabilities, ensuring fast load times and SEO-friendly performance.
+
 **Tech:** React.js | Next.js | Styled Components | JavaScript (ES6+) | Responsive Design | SEO Optimized
 
 🔗 [View Live](https://webevis.com/) | [Source Code](#)
@@ -91,9 +93,10 @@ TechVision is a modern software company website built with React and Next.js, fo
 ---
 
 ### 🏥 [Medicine Store – Shopify Website](https://coverd.de/)
-A professional and fully responsive Shopify-based medicine eCommerce website featuring custom product pages, cart integration, and a clean, trustworthy medical design.  
-🔗 [View Live](https://coverd.de/) | [Source Code](#)
+A professional and fully responsive Shopify-based medicine eCommerce website featuring custom product pages, cart integration, and a clean, trustworthy medical design.
 **Tech:** Shopify, Liquid, HTML5, CSS3, JavaScript, Theme Customization, Responsive Design 
+
+🔗 [View Live](https://coverd.de/) | [Source Code](#)
 
 
 ---
