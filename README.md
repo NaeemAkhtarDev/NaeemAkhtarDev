@@ -69,6 +69,7 @@ An immersive and visually stunning hotel website built with Webflow and Three.js
 ### 🏨 [GSAP Bicycle Experience | JavaScript](https://naeemakhtardev.github.io/-Interactions-Motion-GSAP-Bicycle-Experience/)
 An interactive web animation project built with **GSAP (GreenSock Animation Platform)** — inspired by the motion, balance, and energy of cycling.  
 This project showcases smooth transitions, scroll-based effects, and dynamic UI interactions, bringing a modern and creative touch to frontend design.
+
 **Tech:** GSAP, HTML, CSS, JavaScript, Web Animations, Responsive Design, UI/UX Design  
 
 🔗 [View Live](https://naeemakhtardev.github.io/-Interactions-Motion-GSAP-Bicycle-Experience/) | [Source Code](#)
