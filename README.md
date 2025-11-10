@@ -72,7 +72,7 @@ This project showcases smooth transitions, scroll-based effects, and dynamic UI 
 
 **Tech:** GSAP, HTML, CSS, JavaScript, Web Animations, Responsive Design, UI/UX Design  
 
-🔗 [View Live](https://naeemakhtardev.github.io/-Interactions-Motion-GSAP-Bicycle-Experience/) | [Source Code](#)
+🔗 [View Live](https://naeemakhtardev.github.io/-Interactions-Motion-GSAP-Bicycle-Experience/) | [Source Code](https://github.com/NaeemAkhtarDev/-Interactions-Motion-GSAP-Bicycle-Experience)
 
 
 ### 🌐 [Education Website (WordPress)](http://raynaedutainment.com/)
