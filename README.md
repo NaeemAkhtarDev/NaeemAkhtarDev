@@ -190,15 +190,20 @@ A fully responsive event management and e-commerce website built with Laravel, d
 
 | Project | Description | Live Demo |
 |----------|--------------|-----------|
-| 🎠 **Carousel Slider** | Responsive info slider built with HTML, CSS, JS | [Live Demo](#) |
-| 🖼️ **Draggable Image Slider** | Smooth draggable gallery with modern UI | [Live Demo](#) |
-| 🎨 **Hex Color Generator** | Random HEX color generator using JS | [Live Demo](#) |
-| 💬 **Message Passing Form** | Real-time message display from input | [Live Demo](#) |
-| 🧠 **Quote Generator** | Displays new quotes on every button click | [Live Demo](#) |
-| 🖼️ **Image Resizer & Compressor** | Compress and resize images in browser | [Live Demo](#) |
-| 📸 **Screenshot Vanilla** | Capture webpage screenshots with JS Canvas | [Live Demo](#) |
+| 🎠 **Carousel Animated Slider** | Responsive info slider built with HTML, CSS, JS | [Live Demo](https://naeemakhtardev.github.io/Salon-template/) |
+| 🎠 **Foodie Animated revolution Slider** | Responsive info slider built with HTML, CSS, JS | [Live Demo](https://naeemakhtardev.github.io/food-animation/) |
+| 🌦️ **Layer Slider** | Animated Layer slider for change the content & images with interactive elements | [Live Demo](https://naeemakhtardev.github.io/Layer-Slider-Fashion-/) |
+| 🖼️ **Draggable Image Slider** | Smooth draggable gallery with modern UI | [Live Demo](https://naeemakhtardev.github.io/Dragable-Image-Slider/) |
+| 🎨 **Hex Color Generator** | Random HEX color generator using JS | [Live Demo](https://naeemakhtardev.github.io/Hex-Color-Generator-Changer/) |
+| 💬 **Message Passing Form** | Real-time message display from input | [Live Demo](https://naeemakhtardev.github.io/Passing-Message-via-JavaScript/) |
+| 🧠 **Quote Generator** | Displays new quotes on every button click | [Live Demo](https://naeemakhtardev.github.io/Random-Quote-Generator/) |
+| 🖼️ **Image Resizer & Compressor** | Compress and resize images in browser | [Live Demo](https://naeemakhtardev.github.io/Resize-Compress-Images-Tool/) |
+| 📸 **Screenshot Vanilla** | Capture webpage screenshots with JS Canvas | [Live Demo](https://naeemakhtardev.github.io/Screenshot-Vanilla-/) |
 | 🦑 **Squid Game 3D** | 3D Web Experience built with Three.js & GSAP | [Live Demo](#) |
-| 🌦️ **Weather App** | Real-time weather using API integration | [Live Demo](#) |
+| 🎨 **Color Changer Plugin** | A plugin for change the color as per desired built with HTML,CSS and Jquery | [Live Demo](#) |
+
+
+
 
 ---
 
