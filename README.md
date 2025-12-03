@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m a **Frontend Developer** with 6+ years of experience in building modern, responsive, and interactive web interfaces.  
+- 🔭 "Software Engineer & Frontend Developer | React, Next.js, JavaScript Expert | Building high-performance, user-centric web apps."
 - 💡 I specialize in **UI/UX, Web animations, 3D integration, HTML, CSS, React, Next Js, Typescript, JavaScript, Three JS, GSAP, Webflow, WordPress, Shopify, Laravel and AI Integration**.  
 - 🌍 Based in **Pakistan**, working with international clients and teams remotely.  
 - 🎯 My goal is to deliver **visually stunning, high-performing web experiences**.  
